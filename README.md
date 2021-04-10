@@ -1,0 +1,1 @@
+![Overlay](overlay_image.png "This HTML Result")
